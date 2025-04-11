@@ -4,7 +4,7 @@ Bu proje, Html ve Css kullanılarak geliştirilen responsive bir yazılım sites
 # Proje Özellikleri
 .Responsive Tasarım: Mobile,tablet ve masaüstü cihazlara uyumlu.
 
-.HTML,Css ve Bootsrap: Modern ve temiz kod yapısı.
+.HTML,Css ve Modern ve temiz kod yapısı.
 
 .Kolay Kullanım: Açık ve anlaşılır yapısıyla düzenlemeye uygun.
 
