@@ -9,4 +9,4 @@ Bu proje, Html ve Css kullanılarak geliştirilen responsive bir yazılım sites
 .Kolay Kullanım: Açık ve anlaşılır yapısıyla düzenlemeye uygun.
 
 # Ekran Görüntüsü
-![restaurant-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ae7bbf13-bfa1-4352-a56c-a0b32a9f4fa7)
+![restaurant-ezgif com-video-to-gif-converter-2](https://github.com/user-attachments/assets/2c7f0c42-a1d2-402a-b8b7-40768eb7961e)
